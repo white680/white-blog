@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">晨光中的笔记本</title>
+  <desc id="desc">雾蓝色的清晨，窗外山影与桌上的手写笔记。</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b6c9d0"/><stop offset="1" stop-color="#e5e7df"/></linearGradient>
+    <linearGradient id="desk" x2="0" y2="1"><stop stop-color="#839baa"/><stop offset="1" stop-color="#485c70"/></linearGradient>
+    <linearGradient id="paper" x2="0" y2="1"><stop stop-color="#f5f2e9"/><stop offset="1" stop-color="#d9dfdc"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#fff9dc" stop-opacity=".9"/><stop offset="1" stop-color="#fff9dc" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#sky)"/>
+  <circle cx="845" cy="170" r="235" fill="url(#light)"/>
+  <path d="M0 411Q150 320 292 390T580 368T871 394T1200 337V578H0Z" fill="#9bafba" opacity=".7"/>
+  <path d="M0 468Q209 380 386 456T761 420T1200 454V615H0Z" fill="#738e9e" opacity=".65"/>
+  <path d="M0 542Q240 471 456 528T867 495T1200 525V668H0Z" fill="#536d80" opacity=".67"/>
+  <path d="M82 0v563M596 0v563M82 281h1118" stroke="#42566b" stroke-width="17" opacity=".76"/>
+  <path d="M0 564h1200v196H0z" fill="url(#desk)"/>
+  <path d="M0 567h1200" stroke="#c4d2d1" stroke-width="11" opacity=".45"/>
+  <ellipse cx="560" cy="684" rx="388" ry="48" fill="#263b4c" opacity=".18"/>
+  <path d="M205 618Q350 580 551 628v112Q374 689 205 733Z" fill="url(#paper)"/>
+  <path d="M551 628Q758 580 927 620v113Q739 688 551 740Z" fill="#e2e7e4"/>
+  <path d="M551 628v112M235 653q147-24 278 0M235 678q130-17 264 0M588 649q144-23 295 0M588 678q154-20 295 0" fill="none" stroke="#8198a2" stroke-width="3" opacity=".37"/>
+  <path d="M1029 593q-39-151 34-285m-26 194q-74-43-93-116m101 58q84-77 109-145" fill="none" stroke="#344d58" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1046 409q-80-68-110-47 14 55 93 72m35-94q50-91 106-88-8 66-92 111m-32 145q-86-58-112-24 27 48 100 50" fill="#587b80" opacity=".87"/>
+  <path d="M990 594h110l-16 113h-77z" fill="#465f6a"/>
+  <path d="M0 0h1200v760H0z" fill="#d8e4e4" opacity=".08"/>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1000" role="img" aria-label="月光照入书桌的夜景插画">
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1a2840"/>
+      <stop offset=".48" stop-color="#344864"/>
+      <stop offset="1" stop-color="#17263e"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#d4e4ed" stop-opacity=".72"/>
+      <stop offset=".48" stop-color="#a9c4d6" stop-opacity=".27"/>
+      <stop offset="1" stop-color="#a9c4d6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#9bb4ca" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#6e89a9" stop-opacity=".04"/>
+    </linearGradient>
+    <linearGradient id="desk" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#142139"/>
+      <stop offset=".62" stop-color="#2d3c56"/>
+      <stop offset="1" stop-color="#17263b"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#c8d9df"/>
+      <stop offset="1" stop-color="#6e8297"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="26"/></filter>
+  </defs>
+  <rect width="1800" height="1000" fill="url(#night)"/>
+  <circle cx="1330" cy="285" r="410" fill="url(#glow)"/>
+  <circle cx="1340" cy="258" r="75" fill="#dbe9ed" opacity=".88"/>
+  <circle cx="1340" cy="258" r="79" fill="none" stroke="#f0f5f6" stroke-opacity=".35" stroke-width="8"/>
+  <g fill="#ddebf0" opacity=".54">
+    <circle cx="736" cy="132" r="2"/><circle cx="853" cy="250" r="1.5"/><circle cx="995" cy="125" r="2"/>
+    <circle cx="1137" cy="338" r="1.7"/><circle cx="1534" cy="138" r="2"/><circle cx="1632" cy="345" r="1.4"/>
+    <circle cx="1412" cy="104" r="1.4"/><circle cx="779" cy="370" r="1.4"/><circle cx="1690" cy="195" r="1.8"/>
+  </g>
+  <path d="M615 634c162-172 281-138 410-264 105 106 180 128 273 60 143-104 289-34 502 128v290H615Z" fill="#536e8b" opacity=".53"/>
+  <path d="M615 699c189-125 332-91 472-151 153-66 260-13 375-49 114-35 223 25 338 100v249H615Z" fill="#2d4664" opacity=".76"/>
+  <path d="M610 728c260-65 429-45 613-72 213-31 360-11 577 52v145H610Z" fill="#1b3553"/>
+  <path d="M730 615c280-30 488-7 795 44" fill="none" stroke="#c9dbe5" stroke-opacity=".16" stroke-width="42" filter="url(#soft)"/>
+  <path d="M690 753c280-82 570-100 1100-25" fill="none" stroke="#91adc0" stroke-opacity=".18" stroke-width="38" filter="url(#soft)"/>
+  <rect x="620" y="54" width="1116" height="722" rx="3" fill="url(#glass)" stroke="#a5b8cc" stroke-opacity=".24" stroke-width="10"/>
+  <path d="M1178 55v720M621 404h1114" stroke="#1c2c46" stroke-width="28" opacity=".86"/>
+  <path d="M1180 58v716M620 406h1116" stroke="#aec3d0" stroke-opacity=".15" stroke-width="5"/>
+  <path d="M568 0h70v813h-70zm1156 0h76v813h-76z" fill="#16243b"/>
+  <path d="M562 0h8v813h-8zm1160 0h8v813h-8z" fill="#71899f" opacity=".2"/>
+  <path d="M0 780c408-43 691 24 953-2 268-27 575-26 847 23v199H0Z" fill="url(#desk)"/>
+  <path d="M0 793c438-44 777 20 1153-7 238-17 452-9 647 22" fill="none" stroke="#a7bac6" stroke-opacity=".13" stroke-width="8"/>
+  <path d="M882 828c126-37 218-45 335-12 90-35 202-34 312 0l-15 103c-130-29-225-27-298 11-93-39-191-43-324-12Z" fill="url(#paper)" opacity=".9"/>
+  <path d="M1217 816v112M899 850c104-25 208-19 298 1m38-2c95-22 186-24 283-2" fill="none" stroke="#52677f" stroke-opacity=".45" stroke-width="3"/>
+  <path d="M949 872c62-12 140-12 204 1m101-2c76-12 145-12 213 1M956 895c55-11 119-11 178 1m131 0c76-11 143-12 207 0" fill="none" stroke="#60758a" stroke-opacity=".36" stroke-width="2"/>
+  <path d="M1584 797c14-89 20-154 9-242m-7 130c48-51 86-72 136-84m-134 28c-41-40-73-48-113-52m118 89c-15-63-11-100 19-142" fill="none" stroke="#14243a" stroke-width="13" stroke-linecap="round"/>
+  <g fill="#203954"><path d="M1588 652c39-83 90-109 150-93-13 48-75 79-150 93Z"/><path d="M1581 606c-52-71-102-86-139-62 30 47 78 66 139 62Z"/><path d="M1606 556c0-82 29-129 75-144 13 57-10 105-75 144Z"/></g>
+  <path d="M0 0h550v1000H0Z" fill="#142239" opacity=".35"/>
+</svg>

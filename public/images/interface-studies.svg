@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">界面研究</title>
+  <desc id="desc">深蓝画面中排列着编辑界面、网格和银蓝色线条。</desc>
+  <defs>
+    <linearGradient id="back" x2="1" y2="1"><stop stop-color="#101e34"/><stop offset=".6" stop-color="#344a60"/><stop offset="1" stop-color="#6c8594"/></linearGradient>
+    <linearGradient id="pane" x2="0" y2="1"><stop stop-color="#dce6e7" stop-opacity=".88"/><stop offset="1" stop-color="#9db4bd" stop-opacity=".72"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#c8e7ea" stop-opacity=".48"/><stop offset="1" stop-color="#c8e7ea" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#back)"/>
+  <circle cx="934" cy="154" r="270" fill="url(#glow)"/>
+  <path d="M0 0h1200M0 126h1200M0 252h1200M0 378h1200M0 504h1200M0 630h1200M0 756h1200M0 0v760M150 0v760M300 0v760M450 0v760M600 0v760M750 0v760M900 0v760M1050 0v760M1200 0v760" stroke="#d4e3e9" opacity=".08"/>
+  <g transform="rotate(-8 600 380)">
+    <rect x="183" y="148" width="780" height="516" rx="10" fill="#15283c" stroke="#a8c6cf" stroke-opacity=".58" stroke-width="2"/>
+    <path d="M184 199h778" stroke="#a8c6cf" stroke-opacity=".38"/>
+    <circle cx="218" cy="174" r="5" fill="#b8ced2"/><circle cx="239" cy="174" r="5" fill="#7898a3"/><circle cx="260" cy="174" r="5" fill="#7898a3"/>
+    <rect x="219" y="235" width="306" height="373" fill="url(#pane)"/>
+    <path d="M249 290h194M249 319h246M249 362h170M249 391h226M249 440h138M249 472h215M249 508h187" stroke="#6c8994" stroke-width="7" opacity=".54"/>
+    <rect x="566" y="235" width="356" height="176" fill="#6c899b" opacity=".42"/>
+    <circle cx="743" cy="321" r="53" fill="#c5d5d6" opacity=".83"/>
+    <path d="M567 431h355M567 468h296M567 505h326M567 542h250M567 579h316" stroke="#9bb5be" stroke-width="9" opacity=".47"/>
+  </g>
+  <path d="M870 103h210v86H870z" fill="#d7e8e7" opacity=".78"/>
+  <path d="M896 129h146M896 151h101" stroke="#496674" stroke-width="7" opacity=".48"/>
+  <path d="M83 558h172v82H83z" fill="#8daab4" opacity=".5"/>
+  <path d="M109 582h117M109 607h77" stroke="#dfe8e8" stroke-width="7" opacity=".63"/>
+</svg>
